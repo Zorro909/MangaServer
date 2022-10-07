@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.zorro909.manga.server
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [acme, annotation-api, app-name, data, data-jpa, graalvm, h2, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, maven, micronaut-aot, netty-server, openapi, problem-json, properties, reactor, reactor-http-client, readme, security, security-annotations, security-oauth2, security-session, serialization-jackson, shade, swagger-ui]
